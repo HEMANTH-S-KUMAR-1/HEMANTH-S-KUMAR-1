@@ -18,7 +18,7 @@ Quantum Computing Research
 Web Development using Node.js
 📫 How to reach me:
 
-Email: your-email@example.com
+Email: hemanth.s.kumar2004109@gmail.com
 LinkedIn: Your LinkedIn Profile
 Twitter: @your_twitter_handle
 😄 Pronouns:
